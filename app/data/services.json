@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Gym Membership", "duration": "30 mins", "price": 499, "description": "Discuss plans" },
+  { "id": 2, "name": "Personal Training", "duration": "60 mins", "price": 999, "description": "One-on-one session" },
+  { "id": 3, "name": "Diet Consultation", "duration": "45 mins", "price": 799, "description": "Custom diet plan" }
+]
